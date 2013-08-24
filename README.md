@@ -1,6 +1,7 @@
 # Outroot Color Schemes
 
 These are syntax color schemes I use for my daily programming. Tested mainly with Sublime Text 3. Should work with Sublime Text 2 and TextMate.
+These schemes may be changed/tweaked at any time, and may not reflect the screenshots.
 
 ## The Schemes
 
